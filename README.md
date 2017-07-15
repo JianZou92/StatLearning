@@ -8,7 +8,7 @@ Websites
 4. [Rani Spiegler's Homepage](http://www.tau.ac.il/~rani/)
 
 Books or Paper
-1. Judea Pearl's *[Causal inference in statistics: An overview](http://ftp.cs.ucla.edu/pub/stat_ser/r350.pdf)
-2. [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
-3. [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
-4. Machine Leaning in Action*
+1. Judea Pearl's *[Causal inference in statistics: An overview](http://ftp.cs.ucla.edu/pub/stat_ser/r350.pdf)*
+2. *[An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)*
+3. *[The Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)*
+4. *Machine Leaning in Action*
