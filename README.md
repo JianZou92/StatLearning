@@ -14,3 +14,5 @@ Books or Paper
 3. *[The Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)*
 4. *Machine Leaning in Action*
 
+Notes
+1. BU's *[MA575 Linear Model](http://math.bu.edu/people/cgineste/classes/ma575/w/index.html)
