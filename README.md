@@ -15,4 +15,4 @@ Books or Paper
 4. *Machine Leaning in Action*
 
 Notes
-1. BU's *[MA575 Linear Model](http://math.bu.edu/people/cgineste/classes/ma575/w/index.html)
+1. BU [MA575 Linear Model](http://math.bu.edu/people/cgineste/classes/ma575/w/index.html)
